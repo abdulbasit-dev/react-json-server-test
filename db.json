@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "Ahmad Duhoki",
+      "address": "Kurdistan",
+      "email": "ahmad@gmail.com",
+      "contact": "75000000",
+      "id": 1
+    },
+    {
+      "name": "Hewr Kakashi",
+      "address": "Kurdistan",
+      "email": "hewr@gmail.com",
+      "contact": "750312400",
+      "id": 2
+    },
+    {
+      "name": "Revan bro chan ",
+      "address": "Kurdistannnnn",
+      "email": "revan@gmail.com",
+      "contact": "75024230000024234234",
+      "id": 3
+    },
+    {
+      "name": "basit",
+      "email": "web@basit.com",
+      "contact": "1312313",
+      "address": "sarkarezi",
+      "id": 4
+    }
+  ]
+}
