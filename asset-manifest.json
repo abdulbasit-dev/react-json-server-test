@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-json-server-test/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/react-json-server-test/static/js/main.bae12ec7.chunk.js",
+    "main.js.map": "/react-json-server-test/static/js/main.bae12ec7.chunk.js.map",
+    "runtime-main.js": "/react-json-server-test/static/js/runtime-main.52d10808.js",
+    "runtime-main.js.map": "/react-json-server-test/static/js/runtime-main.52d10808.js.map",
+    "static/js/2.b82a128c.chunk.js": "/react-json-server-test/static/js/2.b82a128c.chunk.js",
+    "static/js/2.b82a128c.chunk.js.map": "/react-json-server-test/static/js/2.b82a128c.chunk.js.map",
+    "index.html": "/react-json-server-test/index.html",
+    "static/css/main.d87cbb72.chunk.css.map": "/react-json-server-test/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.b82a128c.chunk.js.LICENSE.txt": "/react-json-server-test/static/js/2.b82a128c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52d10808.js",
+    "static/js/2.b82a128c.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.bae12ec7.chunk.js"
+  ]
+}
